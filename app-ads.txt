@@ -171,3 +171,4 @@ pubmatic.com, 159906, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
 thebrave.io, 1234634, RESELLER, c25b2154543746ac
+google.com, pub-4198282310116750, DIRECT, f08c47fec0942fa0
