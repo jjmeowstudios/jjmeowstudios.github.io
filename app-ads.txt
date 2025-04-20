@@ -1,3 +1,4 @@
+google.com, pub-4198282310116750, DIRECT, f08c47fec0942fa0
 betweendigital.com, 45827, RESELLER
 betweendigital.com, 45329, RESELLER
 lijit.com, 503707, RESELLER, fafdf38b16bf6b2b
@@ -171,4 +172,3 @@ pubmatic.com, 159906, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
 thebrave.io, 1234634, RESELLER, c25b2154543746ac
-google.com, pub-4198282310116750, DIRECT, f08c47fec0942fa0
