@@ -27,3 +27,9 @@ Los cambios locales no actualizan la web pública. La indexación y las mencione
 English: `/`. Spanish: `/es/`. Both are static, fully translated HTML pages with reciprocal hreflang, self-canonical and localized JSON-LD.
 The home page uses the primary browser language (`es-*` => Spanish; otherwise English). This is a language signal, not physical-country detection. GitHub Pages cannot resolve country server-side. A manual EN/ES selection is remembered when localStorage is available. `/?lang=en` explicitly opens English; `/es/` always opens Spanish. No IP geolocation service or location permission is used.
 Screenshots: first three approved ASO images, `v2/iphone/en-US` and `es-ES`, copied to `images/brainbloq/en` and `es` respectively.
+
+## GEO / AI search
+
+The game facts and mode comparison are visible static HTML in both languages. JSON-LD connects WebPage, MobileApplication, WebSite and publisher and points to the official store listings with sameAs. Claims match the on-page content; no invented ratings or usage figures. robots.txt allows general crawling.
+
+For measurement, verify the domain in Bing Webmaster Tools and Google Search Console, submit the sitemap and monitor indexed pages, queries and available AI citation reports. Account setup and measurements have not been completed in this repository. Citation visibility is not guaranteed. No special AI markup or llms.txt is required for these changes.

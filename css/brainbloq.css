@@ -9,3 +9,5 @@
 
 /* Classic leads the hero; Adventure sits to its left. */
 .shot-adventure{border-color:#5986ad}.shot-classic{border-color:#598c88}
+
+.game-facts{border-top:1px solid #ffffff12}.game-facts>p{max-width:780px;color:var(--muted);line-height:1.9;font-size:15px}.mode-comparison{overflow-x:auto;margin-top:28px;border:1px solid #29415c;border-radius:15px}.mode-comparison table{border-collapse:collapse;width:100%;font-size:14px;text-align:left}.mode-comparison caption{text-align:left;padding:18px;color:var(--muted);font-size:13px}.mode-comparison th,.mode-comparison td{padding:18px;border-top:1px solid #29415c;line-height:1.7;vertical-align:top}.mode-comparison thead{background:#112742;color:var(--yellow)}.mode-comparison tbody td{color:var(--muted)}@media(max-width:700px){.mode-comparison th,.mode-comparison td{padding:12px;font-size:12px}.game-facts>p{font-size:13px}.game-facts h2{font-size:30px}}
