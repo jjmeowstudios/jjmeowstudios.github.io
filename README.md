@@ -21,3 +21,9 @@ Si cambia el dominio, actualizar canonical, Open Graph, JSON-LD, robots.txt y si
 5. Validar datos estructurados con Rich Results Test y revisar rendimiento con PageSpeed Insights.
 
 Los cambios locales no actualizan la web pública. La indexación y las menciones en asistentes de IA no están garantizadas. No hay un marcado especial que garantice aparecer en respuestas generativas; la base es contenido accesible, preciso y rastreable.
+
+## English and Spanish
+
+English: `/`. Spanish: `/es/`. Both are static, fully translated HTML pages with reciprocal hreflang, self-canonical and localized JSON-LD.
+The home page uses the primary browser language (`es-*` => Spanish; otherwise English). This is a language signal, not physical-country detection. GitHub Pages cannot resolve country server-side. A manual EN/ES selection is remembered when localStorage is available. `/?lang=en` explicitly opens English; `/es/` always opens Spanish. No IP geolocation service or location permission is used.
+Screenshots: first three approved ASO images, `v2/iphone/en-US` and `es-ES`, copied to `images/brainbloq/en` and `es` respectively.
